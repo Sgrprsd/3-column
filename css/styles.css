@@ -1,0 +1,84 @@
+.class-body {
+  background-color: hsl(0, 0%, 95%);
+}
+
+/* Card-row */
+
+.car-types {
+  padding: 20%;
+}
+
+/* Card-columns */
+
+/* Sedan Column */
+.sedans {
+  border-radius: 5px 0 0 5px;
+  background-color: hsl(31, 77%, 52%);
+}
+.sedan-logo {
+  padding: 5%;
+}
+.sedans h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  color: hsl(0, 0%, 95%);
+  padding: 5%;
+}
+
+.sedans p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  padding: 5%;
+}
+
+/* SUV column */
+.suv {
+  background-color: hsl(184, 100%, 22%);
+}
+.suvs-logo {
+  padding: 5%;
+}
+.suv h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  color: hsl(0, 0%, 95%);
+  padding: 5%;
+}
+
+.suv p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  padding: 5%;
+}
+
+/* Luxury Column */
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+  border-radius: 0 5px 5px 0;
+}
+.luxury-logo {
+  padding: 5%;
+}
+
+.luxury h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  color: hsl(0, 0%, 95%);
+  padding: 5%;
+}
+
+.luxury p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  font-family: 'Lexend Deca', sans-serif;
+  padding: 5%;
+}
+
+/* Footer */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
